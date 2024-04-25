@@ -25,6 +25,7 @@ body {
 }
 
 main {
+    height: 100vh;
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 20px;
@@ -32,6 +33,8 @@ main {
 }
 
 footer {
+    position: sticky;
+    
     background-color: #F56B47;
     font-size: 17px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;

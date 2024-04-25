@@ -33,15 +33,16 @@ main {
 }
 
 footer {
-    position: sticky;
-    
+    position: fixed;
+    width: 100%;
     background-color: #F56B47;
     font-size: 17px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 5px;
-    margin-bottom: -5px;
+    bottom: 0px;
+
 }
 
 li {
-
+    
 }

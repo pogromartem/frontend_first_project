@@ -1,0 +1,44 @@
+.spanClass {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+}
+
+header {
+    padding: 25px;
+    position: sticky;
+    top: 0;
+    background-color: #F56B47;
+    font-size: 25px;
+    font-weight: 600;
+    font-family:'Courier New', Courier, monospace;
+    padding-left: 10px;
+}
+
+body {
+    margin: 0px;
+}
+
+main {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: #F56B47;
+    font-size: 17px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin-bottom: -5px;
+}
+
+li {
+
+}
